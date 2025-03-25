@@ -1,0 +1,58 @@
+body {
+    user-select: none;
+    overflow-x: hidden;
+    background-color: #ededfd;
+}
+
+.text {
+    margin-top: 2.5vh;
+    margin-left: 15vw;
+    color: #000630;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.sites {
+    margin-left: 15vw;
+    margin-top: 1vh;
+}
+
+.siteFrame {
+    display: flex;
+    margin-bottom: 2vh;
+    width: 30vw;
+    height: 7.5vh;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.show.siteFrame:hover {
+    transform: translateX(-2.5vw);
+}
+
+.projects {
+    margin-left: 10vw;
+    margin-top: 1vh;
+}
+
+.projectFrame {
+    display: flex;
+    margin-bottom: 2vh;
+    width: 30vw;
+    height: 7.5vh;
+    border: #000630 solid 0.25vw;
+    background-color: #E6E6FF;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.show.projectFrame:hover {
+    transform: translateX(-2.5vw);
+}
+
+.showAm {
+    opacity: 0;
+    transition: opacity 0.75s ease-in, transform 0.75s cubic-bezier(0, 0.43, 0.23, 1.11);
+}
+.showAm.show {
+    opacity: 1;
+    transform: translateX(-5vw);
+}

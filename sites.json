@@ -1,0 +1,42 @@
+{
+    "Youtube": {
+        "nickname": "@hyunyeyy",
+        "descript": "평범한 유튜브 계정",
+        "link": "https://www.youtube.com/@hyunyeyy",
+        "icon": "https://www.youtube.com/s/desktop/ca191cfa/img/logos/favicon_144x144.png",
+        "mainColor": "#FF0033",
+        "subColor": "#FFE6E6"
+    },
+    "Discord": {
+        "nickname": "hyunye",
+        "descript": "주로 잡담하는 곳",
+        "link": "https://discord.com/channels/@me",
+        "icon": "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/6266bc493fb42d4e27bb8393_847541504914fd33810e70a0ea73177e.ico",
+        "mainColor": "#5865F2",
+        "subColor": "#E6E6FF"
+    },
+    "Github": {
+        "nickname": "hyunye",
+        "descript": "여러 사람들과 프로젝트 만드는 곳",
+        "link": "https://github.com/hyunye",
+        "icon": "https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg",
+        "mainColor": "#000000",
+        "subColor": "#E6E6E6"
+    },
+    "BaekJoon": {
+        "nickname": "hyunye",
+        "descript": "거의 아무것도 하지 않는 곳",
+        "link": "https://www.acmicpc.net/user/hyunye",
+        "icon": "https://www.acmicpc.net/apple-touch-icon.png",
+        "mainColor": "#0076C0",
+        "subColor": "#E6FFFF"
+    },
+    "소스코드": {
+        "nickname": "",
+        "descript": "",
+        "link": "https://github.com/hyunye/hyunye.github.io",
+        "icon": "https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg",
+        "mainColor": "#000000",
+        "subColor": "#E6E6E6"
+    }
+}
