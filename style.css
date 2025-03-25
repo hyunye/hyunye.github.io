@@ -26,7 +26,7 @@ body {
     cursor: pointer;
 }
 .show.siteFrame:hover {
-    transform: translateX(-2.5vw);
+    transform: translateX(-4vw);
 }
 
 .projects {
@@ -45,7 +45,7 @@ body {
     cursor: pointer;
 }
 .show.projectFrame:hover {
-    transform: translateX(-2.5vw);
+    transform: translateX(-4vw);
 }
 
 .showAm {
