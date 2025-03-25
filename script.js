@@ -97,7 +97,7 @@ window.addEventListener('load', () => {
         if (i + 1 == showList.length) clearInterval(showInterval)
         showList[i].classList.add('show')
         i++
-    }, 300)
+    }, 150)
 })
 
 fetch('sites.json')
